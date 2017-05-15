@@ -1,0 +1,23 @@
+body{
+  background-image:url("");
+  color:white;
+  font-family:"Rubik",sans-serif;
+  background-size:cover;
+}
+#header{
+  background:rgba(0,0,0,.5);
+  border:5px white solid;
+  border-radius:25px;  
+}
+img{
+  border-radius:50%;
+}
+.col-md-4{
+  padding:10px;
+}
+.row{
+  background:rgba(0,0,0,.50);
+  border:5px white solid;
+  border-radius:25px;
+  margin:10px;
+}
